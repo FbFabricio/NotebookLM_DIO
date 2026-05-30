@@ -262,8 +262,7 @@ de terceiros sugeridas por IA? Como mitigá-los?
 
 ## 👤 Autor
 
-Desenvolvido como parte do **Bootcamp de Cybersecurity da DIO**.  
-Conecte-se comigo no [LinkedIn](#) | Veja outros projetos no [GitHub](#)
+Desenvolvido como parte do **Bootcamp de Cybersecurity da DIO**. 
 
 ---
 
